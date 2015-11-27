@@ -1,0 +1,193 @@
+/**{
+	outline:1px solid red;
+}*/
+a{
+  color:grey;
+}
+.col-md-6{
+	padding:0;
+}
+.boton{
+	background-color:grey;
+	
+	}
+
+.lista{
+	list-style:none;
+	margin-top:30px;
+    margin-left:45px;
+}
+.lista li{
+	display:inline-block;
+    margin:0 6px 0 6px;
+    padding:0 6px;
+}
+.menu{
+	background-color:grey;
+	width:100%;
+	height:100px;
+
+}
+.lista-menu{
+	list-style:none;
+	padding:0;
+	margin-bottom:0;
+	margin-top:50px;
+}
+.lista-menu li{
+	display:inline-block;
+	margin-bottom:0;
+	margin-left:25px;
+	padding:10px 25px;
+}
+#especial{
+	background-color:grey;
+	color:white;
+	width:180px;
+	text-align:center;
+}
+#articulo{
+  width:80px;
+  border-right:1px solid black;
+}
+
+#fecha{
+	width:200px;
+    margin-left:5px;
+	}
+#articulo,#fecha{
+  display:inline-block;
+}
+#especial-blanco{
+	background-color:black;
+	color:white;
+	width:100px;
+	text-align:center;
+
+}
+.caja{
+	color:grey;
+}
+.iconitos{
+	padding:3px;
+	margin-right:40px;
+}
+.caja-contenedora{
+	padding-bottom:10px;
+	border-bottom:1px solid grey;
+}
+.caja-contenedora-1{
+	padding-top:5px;
+	padding-bottom:10px;
+	border-bottom:1px solid grey;
+}
+.caja-contenedora-ploma{
+ width:100%;
+ height:200px;
+ background-color:#BDBDBD;
+ margin-bottom:5px;
+}
+#item-blanco{
+   background-color:white;
+}
+.caja-video{
+	background-color:#BDBDBD;
+}
+.caja-blanca{
+	width:350px;
+	height:200px;
+	margin-left:5px;
+	}
+img{
+	width:350px;
+	height:200px;
+}
+.fechita,.enlace{
+  display:inline-block;
+}
+.fechita{
+	width:100px;
+}
+.enlace{
+	width:100px;
+	margin-left:120px;
+}
+.pequeño-plomo{
+	width:50px;
+	height:50px;
+	background-color:#BDBDBD;
+	margin:0;
+}
+.caja-enero h4{
+  width:250px;
+}
+.caja-enero p{
+  width:250px;
+}
+.lista-3{
+  padding:0;
+  list-style:none;
+  border-bottom:1px solid grey;
+}
+.lista-3 li{
+	padding:2px;
+}
+.cajita{
+ background-color:#BDBDBD;
+}
+.lista-footer{
+ width:19%;
+ display:inline-block;
+ padding:0;
+ list-style:none;
+}
+.lista-footer li{
+	
+}
+.col-md-12{
+	padding:0;
+}
+.cuadro-plomo{
+	width:70px;
+	height:74px;
+	background-color:grey;
+}
+
+.viernes{
+	list-style:none;
+	padding:0;
+	border-bottom:1px solid grey;
+}
+.letras{
+	width:280px;
+	margin-left:3px;
+}
+.cuadro-plomo , .letras{
+	display:inline-block;
+}
+.letras h4{
+margin-bottom:0;
+}
+.letras p{
+	margin-bottom:0;
+}
+.footer{
+	margin-top:20px;
+	border-top:3px solid grey;
+}
+.col-md-3 , .segunda{
+   margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
