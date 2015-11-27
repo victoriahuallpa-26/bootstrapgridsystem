@@ -28,6 +28,16 @@ a{
 	height:100px;
 
 }
+.menup{
+	position:relative;
+	top:70px;
+	text-align:center;
+	height:30px;
+
+}
+.menup1{
+	background-color:white;
+}
 .lista-menu{
 	list-style:none;
 	padding:0;
